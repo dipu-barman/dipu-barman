@@ -1,5 +1,6 @@
-## Hi there 👋
 
+![logo](https://github.com/dipu-barman/dipu-barman/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
+## Hi there 👋
 <!--
 **dipu-barman/dipu-barman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
